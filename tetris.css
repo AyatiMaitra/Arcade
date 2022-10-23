@@ -1,0 +1,34 @@
+canvas {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+.navbar{
+    font-family: 'Bungee Inline', cursive;
+    font-weight: bold;
+    padding-left: 7%;
+  }
+
+body{
+    background-image: linear-gradient(#ed9f80, #f8e37c);
+    padding-bottom: 20%;
+
+}
+h3{
+    text-align: center;
+}
+
+#playbutton {
+    width: 100px;
+    height: 50px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    padding-bottom: 50px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
